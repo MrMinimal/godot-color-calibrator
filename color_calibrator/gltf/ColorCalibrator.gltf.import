@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ColorCalibrator.gltf-a5a870d6da3be54ef0e1afa6e891a971.scn"
+path="res://.import/ColorCalibrator.gltf-8377a49e548534acc72ab5cf4af23241.scn"
 
 [deps]
 
-source_file="res://assets/color_calibrator/gltf/ColorCalibrator.gltf"
-dest_files=[ "res://.import/ColorCalibrator.gltf-a5a870d6da3be54ef0e1afa6e891a971.scn" ]
+source_file="res://color_calibrator/gltf/ColorCalibrator.gltf"
+dest_files=[ "res://.import/ColorCalibrator.gltf-8377a49e548534acc72ab5cf4af23241.scn" ]
 
 [params]
 

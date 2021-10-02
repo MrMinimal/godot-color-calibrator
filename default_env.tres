@@ -1,6 +1,6 @@
 [gd_resource type="Environment" load_steps=3 format=2]
 
-[ext_resource path="res://assets/hdr/skate_park_2k.hdr" type="Texture" id=1]
+[ext_resource path="res://demo/hdr/skate_park_2k.hdr" type="Texture" id=1]
 
 [sub_resource type="PanoramaSky" id=1]
 panorama = ExtResource( 1 )
@@ -8,4 +8,3 @@ panorama = ExtResource( 1 )
 [resource]
 background_mode = 2
 background_sky = SubResource( 1 )
-tonemap_mode = 4
