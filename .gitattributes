@@ -1,17 +1,12 @@
 # Normalize EOL for all files that Git considers text files.
 * text=auto eol=lf
 
-# Ignore some files when exporting to a ZIP for Godot Asset Library
-/.gitattributes     			export-ignore
-/.gitignore         			export-ignore
-/LICENSE            			export-ignore
-/LICENSE.md         			export-ignore
-/README.md          			export-ignore
-/project.godot      			export-ignore
-/icon.png           			export-ignore
-/icon.png.import    			export-ignore
-/demo               			export-ignore
-/assets/hdr         			export-ignore
-/assets/color_calibrator/blender        export-ignore
-/default_env.tres   			export-ignore
-
+# Ignore some files when exporting to a ZIP.
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+/LICENSE            export-ignore
+/LICENSE.md         export-ignore
+/README.md          export-ignore
+/project.godot      export-ignore
+/icon.png           export-ignore
+/icon.svg           export-ignore
