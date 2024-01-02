@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3RYFSW)
+
 # General
 Comparison project between Godot and Blender shading/color/lighting.
 Assets can be used to also tweak scene setup for neutral lighting.
